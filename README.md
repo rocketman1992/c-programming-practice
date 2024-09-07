@@ -1,3 +1,3 @@
-# C programming practice repo 
+# C/C++ programming practice repo 
 
 
